@@ -1,3 +1,5 @@
+## EMAIL APPLICATION
+
 To run the dev server, 
 
 npm run dev
